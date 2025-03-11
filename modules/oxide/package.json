@@ -34,7 +34,7 @@
   ],
   "dependencies": {
     "prism-themes": "^1.9.0",
-    "prismjs": "^1.27.0"
+    "prismjs": "^1.30.0"
   },
   "devDependencies": {
     "connect": "^3.7.0",
